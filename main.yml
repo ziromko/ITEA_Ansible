@@ -1,5 +1,5 @@
 - hosts: ALL
-  user: ohud
+  user: zirom
   become: true
   become_method: sudo
   gather_facts: no
